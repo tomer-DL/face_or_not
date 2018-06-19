@@ -1,8 +1,10 @@
 ## Part 1
 
-In the 1st part you will be gathering face images dataset by using images saved on your computer. 
+In the 1st part you will be gathering face images dataset by using images saved on your computer.
+If you don't have or don't want to use your own images, you can download images from [The Images of Groups Dataset](http://chenlab.ece.cornell.edu/people/Andy/ImagesOfGroups.html). Just download all the zip files containing the images and raw text data files, and extract them under one directory.
+
 You will be using Haar Cascade to recognize faces inside images, and extract those faces to create a faces dataset. 
-This method is not totally accurate, so we would have to address the issue in the next few parts.
+This method is not totally accurate, so we would address the issue in the next few parts.
 
 This part includes the following files:
 
